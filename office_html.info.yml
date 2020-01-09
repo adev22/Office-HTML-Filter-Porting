@@ -1,0 +1,5 @@
+name: 'Office HTML Filter'
+type: module
+description: 'Comments out Microsoft Office-generated HTML so it can be stripped by the HTML filter.'
+core: 8.x
+package: Input filters
